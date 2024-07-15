@@ -1,3 +1,4 @@
+![logo](https://github.com/syedabdullahzaidi786/syedabdullahzaidi786/blob/main/Blue%20Gaming%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Syed Abdullah Zaidi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
